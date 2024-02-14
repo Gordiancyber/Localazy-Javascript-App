@@ -3,7 +3,9 @@
 
 ```
 This is a simple JavaScript application demonstrating localization with Localazy.
-It shows you how to integrate Localazy for translation management  and i18next for internationalization in a JavaScript web application. It also help provide a basic setup to dynamically load translations from Localazy CDN based on the user's locale.
+It shows you how to integrate Localazy for translation management  and i18next
+for internationalization in a JavaScript web application.
+It also help provide a basic setup to dynamically load translations from Localazy CDN based on the user's locale.
 
 ```
 ## Installation
