@@ -1,0 +1,16 @@
+{
+    "name": "localize-js-app",
+    "version": "1.0.0",
+    "description": "A JavaScript app localized with Localazy",
+    "scripts": {
+      "start": "parcel index.html --open",
+      "build": "parcel build index.html"
+    },
+    "devDependencies": {
+      "parcel-bundler": "^1.12.5"
+    },
+    "dependencies": {
+      "i18next": "^21.4.3"
+    }
+  }
+    
