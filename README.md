@@ -13,7 +13,7 @@ It also help provide a basic setup to dynamically load translations from Localaz
 1. Clone the repository:
 
    ```bash
-   github clone Gordiancyber/Localazy-Javascript-App      ```
+   github clone Gordiancyber/Localazy-Javascript-App 
 
 2. Navigate to the project directory:
 
